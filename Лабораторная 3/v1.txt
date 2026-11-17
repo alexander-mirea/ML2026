@@ -1,0 +1,6 @@
+Скачать тут:
+
+https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
+
+Пять типов злокачественных опухолей:
+BRCA(Breast invasive carcinoma), KIRC(Kidney renal clear cell carcinoma), COAD(Colon adenocarcinoma), LUAD(Lung adenocarcinoma), PRAD(Prostate adenocarcinoma)
